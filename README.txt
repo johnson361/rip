@@ -21,5 +21,4 @@ in the root of the package you downloaded.
 
 For installation instructions, see INSTALL.txt.
 
-For upgrade instructions, see UPGRADE.txt. new
-ok this not new
+For upgrade instructions, see UPGRADE.txt. last
